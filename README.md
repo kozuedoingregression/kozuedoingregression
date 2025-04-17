@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello, i'm Kozue
 
-<!--
-**kozuedoingregression/kozuedoingregression** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little digital corner - I build things that blink, think, and sometimes dream.
 
-Here are some ideas to get you started:
+## Who am I?
+- Delevoper | Engineer | Researcher
+- Research Intern @ DRDO — computer vision, data modeling, network analysis
+- Published 3+ research papers on algorithms, computer vision, drones, blockchain, and more
+- Building games with nothing but OpenGL and sheer will
+- Building **episodic memory chatbots** from scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Languages:    Python, Ruby, JS/TS, C++
+- Frameworks:   FastAPI, Next.js, Ruby on Rails, PyTorch, TensorFlow
+- Tools:        Neovim, Git, Linux, OpenGL, Framer Motion
