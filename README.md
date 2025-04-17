@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="70%" height="50%" src="Whose%20dream%20is%20it_.jpg">
+    <img width="100%" height="10%" src="Whose%20dream%20is%20it_.jpg">
   </p>
 ## Hello, i'm Kozue
 
