@@ -2,8 +2,7 @@
     <img width="100%" height="10%" src="Whose%20dream%20is%20it_.jpg">
 </p>
   
->If it’s beautiful, bizarre, or bold — I probably want to collaborate.
-Fork something. Star something. DM me your favorite bug.
+>DM me your favorite bug.
   
 ## Hello, i'm Kozue
 
