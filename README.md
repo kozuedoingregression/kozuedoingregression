@@ -7,14 +7,12 @@
   
 ## Hello, i'm Kozue
 
-Welcome to my little digital corner - I build things that blink, think, and sometimes dream.
+ I trick stones into thinking.
 
 ## Who am I?
 - Delevoper | Engineer | Researcher
 - Research Intern @ DRDO — computer vision, data modeling, network analysis
 - Published 3+ research papers on algorithms, computer vision, drones, blockchain, and more
-- Building a quant firm on nothing but alpha and sheer will.
-- Building episodic memory LLMs from scratch
 
 ## Tech Stack
 
